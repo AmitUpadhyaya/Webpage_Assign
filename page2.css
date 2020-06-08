@@ -4,6 +4,8 @@
     bottom:1.5em; 
     height: 220px;
     background-color: rgba(10, 10, 10, 0.781); 
+    background-image: url(https://previews.123rf.com/images/designsstock/designsstock1205/designsstock120500056/13605347-restaurant-menu-cover-design-with-knife-spoon-and-fork-.jpg);
+    background-size: cover;
 }
 
 .tech-slideshow {

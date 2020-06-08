@@ -75,14 +75,20 @@ input[type="submit"] {
 }
 
 .offer{
+  background-color: rgba(84, 245, 124, 0.808);
    position: relative;
     bottom: 8em;
+    height: 300px;
 }
 
 .offer a{
+  
+  width: 1200px;
     margin-left: 2em;
+    
     position: relative;
-    left: 6em;
+    left: 8em;
+    top: 3em;
 }
 
 .text-1 {
@@ -145,3 +151,7 @@ input[type="submit"] {
       transform: translateX(-66.6666%);  
     }
   }
+
+ 
+  
+  
